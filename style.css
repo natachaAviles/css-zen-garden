@@ -1,0 +1,32 @@
+#css-zen-garden {
+     
+	font-family:Arial;
+	background-color:#FDD692;
+	color:black  ;
+	font-size:15px;
+	margin:0 auto;
+	border:25px solid black;
+	padding:15px;
+
+}
+
+header {
+	color:#EC7357;
+	font-size:35px;
+	text-align: center;
+	text-shadow:-1px -1px white, 1px 1px #333;
+
+}
+
+
+a { 
+    font-style:italic;
+	text-decoration:none;
+	color:#3E1929;
+}
+
+.sidebar {
+	padding:30px;
+	background-color:#EC7357;
+	
+}
